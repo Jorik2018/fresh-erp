@@ -14,3 +14,6 @@ deno task start
 ```
 
 This will watch the project directory and restart as necessary.
+
+deno install -Arf jsr:@deno/deployctl
+/Users/ealarcop/.deno/bin/deployctl deploy
